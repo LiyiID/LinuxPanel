@@ -1,0 +1,1 @@
+import{I as a}from"./main.js?v=1714377894636";const t=t=>a.post("database/InputSql",{data:t,check:"msg"}),e=t=>a.post("database/GetBackup",{data:t,check:"ignore"}),s=(t,e)=>a.post("database/".concat(e,"/GetBackup"),{data:t,check:"ignore",customType:"model"}),c=t=>a.post("files/DeleteFile",{data:t,check:"msg"});export{t as R,s as a,c as d,e as g};

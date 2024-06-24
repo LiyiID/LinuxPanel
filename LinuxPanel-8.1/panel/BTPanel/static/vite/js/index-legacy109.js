@@ -1,0 +1,1 @@
+System.register(["./main-legacy.js?v=1714377894636"],(function(t,e){"use strict";var n;return{setters:[function(t){n=t.n}],execute:function(){t("_",n({},(function(){return(0,this._self._c)("ul",{staticClass:"list-disc pl-40px leading-2.4rem text-[#777]"},[this._t("default")],2)}),[],!1,null,"42c7275d",null,null).exports)}}}));

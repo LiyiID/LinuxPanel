@@ -1,0 +1,1 @@
+import{n as t}from"./main.js?v=1714377894636";const l=t({},(function(){return(0,this._self._c)("ul",{staticClass:"list-disc pl-40px leading-2.4rem text-[#777]"},[this._t("default")],2)}),[],!1,null,"42c7275d",null,null).exports;export{l as _};

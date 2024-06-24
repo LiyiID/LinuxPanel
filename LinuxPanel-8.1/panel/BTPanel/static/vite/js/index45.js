@@ -1,0 +1,1 @@
+import{L as t}from"./element-lib.js?v=1714377894636";import{n}from"./main.js?v=1714377894636";const l=n({},(function(){return(0,this._self._c)(t,{attrs:{direction:"vertical","content-position":"left"}})}),[],!1,null,null,null,null).exports;export{l as _};

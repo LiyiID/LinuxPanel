@@ -1,0 +1,9 @@
+{
+  "https://registry.docker-cn.com": "Docker\u4e2d\u56fd\u5b98\u65b9\u955c\u50cf\u52a0\u901f\u7ad9",
+  "https://mirror.ccs.tencentyun.com": "\u817e\u8baf\u4e91\u955c\u50cf\u52a0\u901f\u7ad9",
+  "https://ung2thfc.mirror.aliyuncs.com": "\u963f\u91cc\u4e91\u955c\u50cf\u52a0\u901f\u7ad9",
+  "https://docker.mirrors.ustc.edu.cn": "\u4e2d\u56fd\u79d1\u6280\u5927\u5b66\u955c\u50cf\u52a0\u901f\u7ad9",
+  "https://0bcbbd64c600f5e70f8ac0156b43a3e0.mirror.swr.myhuaweicloud.com": "\u534e\u4e3a\u955c\u50cf\u52a0\u901f\u7ad9",
+  "http://hub-mirror.c.163.com": "\u7f51\u6613\u955c\u50cf\u52a0\u901f\u7ad9",
+  "https://docker.mirrors.sjtug.sh": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u955c\u50cf\u52a0\u901f\u7ad9",
+}

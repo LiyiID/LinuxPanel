@@ -1,0 +1,1 @@
+System.register(["./main-legacy.js?v=1714377894636"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.I}],execute:function(){e("g",(function(){return n.post("files/GetTaskSpeed")})),e("r",(function(e){return n.post("files/RemoveTask",{data:e,check:"msg"})}))}}}));

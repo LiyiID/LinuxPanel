@@ -1,0 +1,1 @@
+System.register(["./element-lib-legacy.js?v=1714377894636","./main-legacy.js?v=1714377894636"],(function(t,n){"use strict";var e,i;return{setters:[function(t){e=t.L},function(t){i=t.n}],execute:function(){t("_",i({},(function(){return(0,this._self._c)(e,{attrs:{direction:"vertical","content-position":"left"}})}),[],!1,null,null,null,null).exports)}}}));
